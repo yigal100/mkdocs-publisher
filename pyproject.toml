@@ -5,7 +5,7 @@ description = "Publisher for MkDocs - set of plugins for content creators"
 authors = [{ name = "Maciej 'maQ' Kusz", email = "maciej.kusz@gmail.com" }]
 requires-python = "~=3.13"
 readme = "README.md"
-license = "MIT "
+license = "MIT"
 keywords = [
     "mkdocs",
     "mkdocs-plugin",
